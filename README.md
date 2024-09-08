@@ -1,4 +1,4 @@
 # InternPe
-InternPe Internship
-From 29/07/2024 to 25/08/2024
-Domain: Web Development
+<h1>InternPe Internship</h1>
+<h2>Domain: Web Development</h2>
+<h3>From 29/07/2024 to 25/08/2024</h3>
