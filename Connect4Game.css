@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(https://www.shutterstock.com/image-photo/four-row-game-yellow-red-260nw-711635506.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body h1 {
+    color: beige; 
+    font-size: 60px;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+#board {
+    height: 540px;
+    width: 630px;
+    background-color: blue;
+    background-color: rgb(3, 167, 231);
+    border: 10px solid black;
+    
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+
+    /* Circle */
+    background-color: white;
+    border-radius: 50%;
+    border: 5px solid darkblue;
+
+}
+
+.red-piece {
+    background-color: red;
+}
+
+.green-piece {
+    background-color: rgb(69, 161, 44);
+}
